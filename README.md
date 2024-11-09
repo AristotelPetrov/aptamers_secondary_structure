@@ -1,5 +1,5 @@
 # Content
-- data.csv - dataset of aptamers sequences and secondary structures: results of searching in NAKB by queries "aptamer" and "riboswitch" on DNA and RNA were obtained, secondary structures were obtained by 3DNA DSSR, sequence duplicates were removed
+- data.csv - dataset of aptamers sequences and secondary structures: results of searching in NAKB by queries "aptamer" and "riboswitch" on DNA and RNA were obtained, secondary structures were obtained by 3DNA DSSR (used through rnapdbee web-sever with default settings, , sequence duplicates were removed
 
 - eda.ipynb - EDA on some properties of the aptamers sequences: number of DNA and RNA sequences, percentage of paired and unpaired nucleotides, percentage of pseudoknotted pairs
 
